@@ -1,0 +1,13 @@
+D:\c#Trails\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+D:\c#Trails\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+D:\c#Trails\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\MainWindow.baml
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\MainWindow.g.cs
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\App.g.cs
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\LoginPage_MarkupCompile.cache
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\LoginPage.g.resources
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+D:\c#Trails\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
